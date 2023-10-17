@@ -1,0 +1,19 @@
+baseURL = 'https://data-capsule.github.io/'
+languageCode = 'en-us'
+title = 'DataCapsule | UC Berkeley'
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+disableSpecial1stPost = true
+hideSummary = true
+
+
+[params.homeInfoParams]
+Title = "Paper Links"
+Content = "Alex Thomas, Eric Chen, Shubham Mishra, Prof. John D. Kubiatowicz"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/data-capsule/"
