@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DataCapsule | UC Berkeley</title>
+    <link>https://data-capsule.github.io/posts/</link>
+    <description>Recent content in Posts on DataCapsule | UC Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 12:26:51 -0700</lastBuildDate><atom:link href="https://data-capsule.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataCapsule</title>
+      <link>https://data-capsule.github.io/posts/dc/</link>
+      <pubDate>Tue, 17 Oct 2023 12:26:51 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/dc/</guid>
+      <description>DCR: DataCapsule Replication System</description>
+    </item>
+    
+    <item>
+      <title>CapsuleDB</title>
+      <link>https://data-capsule.github.io/posts/cdb/</link>
+      <pubDate>Tue, 17 Oct 2023 12:23:07 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/cdb/</guid>
+      <description>CapsuleDB v1
+CapsuleDB v2</description>
+    </item>
+    
+    <item>
+      <title>Global Data Plane</title>
+      <link>https://data-capsule.github.io/posts/gdp/</link>
+      <pubDate>Tue, 17 Oct 2023 12:18:39 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/gdp/</guid>
+      <description>Towards a Global Data Infrastructure
+Nitesh Mor&amp;rsquo;s PhD thesis
+TrustNet</description>
+    </item>
+    
+    <item>
+      <title>Paranoid Stateful Lambda Whitepaper</title>
+      <link>https://data-capsule.github.io/posts/psl/</link>
+      <pubDate>Tue, 17 Oct 2023 12:11:45 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/psl/</guid>
+      <description>ArXiv link</description>
+    </item>
+    
+  </channel>
+</rss>

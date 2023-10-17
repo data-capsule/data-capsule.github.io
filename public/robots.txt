@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://data-capsule.github.io/sitemap.xml
