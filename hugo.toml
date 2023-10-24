@@ -11,7 +11,7 @@ hideSummary = true
 
 
 [params.homeInfoParams]
-Title = "Paper Links"
+Title = "Data Capsules: Cryptographically hardened containers of data"
 Content = "Alex Thomas, Eric Chen, Shubham Mishra, Prof. John D. Kubiatowicz"
 
 [[params.socialIcons]]
