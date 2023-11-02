@@ -12,7 +12,10 @@ hideSummary = true
 
 [params.homeInfoParams]
 Title = "Data Capsules: Cryptographically hardened containers of data"
-Content = "Alex Thomas, Eric Chen, Shubham Mishra, Prof. John D. Kubiatowicz"
+Content = """Alex Thomas, Eric Chen, Shubham Mishra, Prof. John D. Kubiatowicz
+
+
+**Recent**: We presented Paranoid Statefule Lambda at SOSP 2023 poster session. [Poster Link](/files/sosp_2023_psl_poster.pdf)"""
 
 [[params.socialIcons]]
 name = "github"

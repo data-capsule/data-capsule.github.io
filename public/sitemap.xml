@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://data-capsule.github.io/posts/dc/</loc>
-    <lastmod>2023-10-17T12:26:51-07:00</lastmod>
-  </url><url>
     <loc>https://data-capsule.github.io/</loc>
-    <lastmod>2023-10-17T12:26:51-07:00</lastmod>
-  </url><url>
-    <loc>https://data-capsule.github.io/posts/</loc>
-    <lastmod>2023-10-17T12:26:51-07:00</lastmod>
-  </url><url>
-    <loc>https://data-capsule.github.io/posts/cdb/</loc>
-    <lastmod>2023-10-17T12:23:07-07:00</lastmod>
-  </url><url>
-    <loc>https://data-capsule.github.io/posts/gdp/</loc>
-    <lastmod>2023-10-17T12:18:39-07:00</lastmod>
+    <lastmod>2023-11-02T12:11:45-07:00</lastmod>
   </url><url>
     <loc>https://data-capsule.github.io/posts/psl/</loc>
-    <lastmod>2023-10-17T12:11:45-07:00</lastmod>
+    <lastmod>2023-11-02T12:11:45-07:00</lastmod>
+  </url><url>
+    <loc>https://data-capsule.github.io/posts/</loc>
+    <lastmod>2023-11-02T12:11:45-07:00</lastmod>
+  </url><url>
+    <loc>https://data-capsule.github.io/posts/fogros/</loc>
+    <lastmod>2023-10-23T12:11:45-07:00</lastmod>
+  </url><url>
+    <loc>https://data-capsule.github.io/posts/cdb/</loc>
+    <lastmod>2023-10-23T12:10:07-07:00</lastmod>
+  </url><url>
+    <loc>https://data-capsule.github.io/posts/gdp/</loc>
+    <lastmod>2023-10-22T12:18:39-07:00</lastmod>
+  </url><url>
+    <loc>https://data-capsule.github.io/posts/dc/</loc>
+    <lastmod>2023-10-17T12:26:51-07:00</lastmod>
   </url><url>
     <loc>https://data-capsule.github.io/categories/</loc>
   </url><url>

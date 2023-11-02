@@ -1,6 +1,6 @@
 +++
 title = 'Paranoid Stateful Lambdas'
-date = 2023-10-23T12:11:45-07:00
+date = 2023-11-02T12:11:45-07:00
 draft = false
 +++
 
@@ -11,3 +11,5 @@ As described, our Secure Concurrency Layer (SCL), provides eventually-consistent
 ## Paper Link(s)
 
 [ArXiv link](https://arxiv.org/abs/2210.11703)
+
+[SOSP 2023 Poster](/files/sosp_2023_psl_poster.pdf)

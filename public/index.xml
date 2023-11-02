@@ -6,44 +6,53 @@
     <description>Recent content on DataCapsule | UC Berkeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 12:26:51 -0700</lastBuildDate><atom:link href="https://data-capsule.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 12:11:45 -0700</lastBuildDate><atom:link href="https://data-capsule.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paranoid Stateful Lambdas</title>
+      <link>https://data-capsule.github.io/posts/psl/</link>
+      <pubDate>Thu, 02 Nov 2023 12:11:45 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/psl/</guid>
+      <description>We propose a federated Function-as-a-Service (FaaS) execution model that provides secure and stateful execution in both Cloud and Edge environments. The FaaS workers, called Paranoid Stateful Lambdas (PSLs), collaborate with one another to perform large parallel computations. We exploit cryptographically hardened and mobile bundles of data, called DataCapsules, to provide persistent state for our PSLs, whose execution is protected using hardware-secured TEEs. To make PSLs easy to program and performant, we build the familiar Key-Value Store interface on top of DataCapsules in a way that allows amortization of cryptographic operations.</description>
+    </item>
+    
+    <item>
+      <title>FogROS</title>
+      <link>https://data-capsule.github.io/posts/fogros/</link>
+      <pubDate>Mon, 23 Oct 2023 12:11:45 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/fogros/</guid>
+      <description>As robots are increasingly deployed worldwide, they require mechanisms to efficiently, reliably, and securely communicate with other robots, sensors, computers, and the cloud. The applications are broad, from mobile robots with changing IP addresses due to traveling through different networks, to a fleet of globally distributed robots learning collaboratively. Cloud and fog robotics empower robots and automation systems to harness off-board resources in cloud-based computers.
+Paper Link(s) A Fog Robotics Approach to Deep Robot Learning: Application to Object Recognition and Grasp Planning in Surface Decluttering</description>
+    </item>
+    
+    <item>
+      <title>CapsuleDB</title>
+      <link>https://data-capsule.github.io/posts/cdb/</link>
+      <pubDate>Mon, 23 Oct 2023 12:10:07 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/cdb/</guid>
+      <description>Secure stateful computation in the edge environment is a difficult problem to solve due to limitations on storage capacity and compute hardware. With the advent of Internet-of-Things, the need for confidential computing and secure storage on top of untrusted hardware is increasing.
+In this premise, we present CapsuleDB, a key-value store for edge devices that provides confidentiality through trusted execution environments (TEEs). CapsuleDB stores data in cryptographically hardened containers called DataCapsules, which allow for maintaining data integrity and provenance even on top of remote untrusted storage systems.</description>
+    </item>
+    
+    <item>
+      <title>Global Data Plane</title>
+      <link>https://data-capsule.github.io/posts/gdp/</link>
+      <pubDate>Sun, 22 Oct 2023 12:18:39 -0700</pubDate>
+      
+      <guid>https://data-capsule.github.io/posts/gdp/</guid>
+      <description>Today’s exciting new world of data-driven technology, AI, and cyber-physical systems rely on information from widely disparate sources, combining processing and storage in the cloud with embedded sensors, actuators, and processing at the edge. This information includes both the inputs and outputs of computations as well as multi-versioned executables that drive such computations. Edge computing is essential, since sensors at the edge of the network (e.g., cameras) generate huge volumes of data that is ideally processed or distilled locally.</description>
+    </item>
+    
     <item>
       <title>DataCapsule</title>
       <link>https://data-capsule.github.io/posts/dc/</link>
       <pubDate>Tue, 17 Oct 2023 12:26:51 -0700</pubDate>
       
       <guid>https://data-capsule.github.io/posts/dc/</guid>
-      <description>DCR: DataCapsule Replication System</description>
-    </item>
-    
-    <item>
-      <title>CapsuleDB</title>
-      <link>https://data-capsule.github.io/posts/cdb/</link>
-      <pubDate>Tue, 17 Oct 2023 12:23:07 -0700</pubDate>
-      
-      <guid>https://data-capsule.github.io/posts/cdb/</guid>
-      <description>CapsuleDB v1
-CapsuleDB v2</description>
-    </item>
-    
-    <item>
-      <title>Global Data Plane</title>
-      <link>https://data-capsule.github.io/posts/gdp/</link>
-      <pubDate>Tue, 17 Oct 2023 12:18:39 -0700</pubDate>
-      
-      <guid>https://data-capsule.github.io/posts/gdp/</guid>
-      <description>Towards a Global Data Infrastructure
-Nitesh Mor&amp;rsquo;s PhD thesis
-TrustNet</description>
-    </item>
-    
-    <item>
-      <title>Paranoid Stateful Lambda Whitepaper</title>
-      <link>https://data-capsule.github.io/posts/psl/</link>
-      <pubDate>Tue, 17 Oct 2023 12:11:45 -0700</pubDate>
-      
-      <guid>https://data-capsule.github.io/posts/psl/</guid>
-      <description>ArXiv link</description>
+      <description>DataCapsules are secure and replicated containers of data, giving you the abstraction of a Blockchain-in-a-box. The data structure has a hash-linked DAG structure, where each block of data is also encrypted for confidentiality. DataCapsule servers allow a single-writer interface with signature checks. DataCapsules can be migrated to be close to the users making them useful in an edge environment.
+Paper Link(s) DCR: DataCapsule Replication System</description>
     </item>
     
   </channel>
